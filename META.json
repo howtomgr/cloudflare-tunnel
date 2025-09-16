@@ -1,0 +1,53 @@
+{
+  "category": "miscellaneous",
+  "created_date": "2025-09-15T22:48:57.356127",
+  "default_ports": [
+    80,
+    404,
+    3000,
+    8096,
+    8123
+  ],
+  "dependencies": [],
+  "description": "Secure way to connect your applications to Cloudflare without opening inbound ports. Essential tool for exposing self-hosted services securely through Cloudflare's global network.",
+  "difficulty_level": "intermediate",
+  "documentation_url": "https://howtomgr.github.io/miscellaneous/cloudflare-tunnel",
+  "estimated_setup_time": "15-30 minutes",
+  "features": [
+    "multi-os-support",
+    "comprehensive-documentation",
+    "security-hardening",
+    "performance-optimization",
+    "backup-restore-procedures",
+    "troubleshooting-guides"
+  ],
+  "guide_path": "/miscellaneous/cloudflare-tunnel",
+  "installation_methods": [
+    "native-packages",
+    "source-compilation"
+  ],
+  "last_updated": "2025-09-15T22:48:57.356144",
+  "license": "Open Source",
+  "maintenance_status": "active",
+  "name": "cloudflare-tunnel",
+  "repository_url": "https://github.com/howtomgr/cloudflare-tunnel",
+  "spec_version": "2.0",
+  "subcategory": "miscellaneous",
+  "supported_os": [
+    "rhel",
+    "centos",
+    "rocky",
+    "almalinux"
+  ],
+  "tags": [
+    "miscellaneous",
+    "containerization",
+    "observability",
+    "security",
+    "communication",
+    "networking"
+  ],
+  "title": "Cloudflare Tunnel Installation Guide",
+  "version": "1.0.0",
+  "website_url": "https://howtomgr.github.io/miscellaneous/cloudflare-tunnel"
+}
